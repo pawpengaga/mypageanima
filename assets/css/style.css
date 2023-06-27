@@ -1,8 +1,24 @@
 @import url('styla.css');
 
-.animachar{
+#animachar1{
     width: 34rem;
     position: absolute;
     top: 11%;
-    right: 34%;
+    right: 50%;
 }
+
+#animachar2{
+    width: 55rem;
+    position: absolute;
+    top: 11%;
+    right: 18%;
+}
+
+.menu-list {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+  }
+  
