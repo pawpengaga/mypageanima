@@ -1,0 +1,8 @@
+@import url('styla.css');
+
+.animachar{
+    width: 34rem;
+    position: absolute;
+    top: 11%;
+    right: 34%;
+}
