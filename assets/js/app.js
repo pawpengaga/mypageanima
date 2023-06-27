@@ -11,41 +11,42 @@ lottie.loadAnimation({
     bounce: true,
     loop: false,
     autoplay: true,
-    path :'../assets/anima/bg/background.json'
-});
-
-lottie.loadAnimation({
+    path: 'https://kotoykm.github.io/assets/anima/bg/background.json'
+  });
+  
+  lottie.loadAnimation({
     container: char1,
     renderer: 'svg',
     bounce: true,
     loop: true,
     autoplay: true,
-    path :'../assets/anima/char1/promo.json'
-});
-
-lottie.loadAnimation({
+    path: 'https://kotoykm.github.io/assets/anima/char1/promo.json'
+  });
+  
+  lottie.loadAnimation({
     container: char2,
     renderer: 'svg',
     bounce: true,
     loop: true,
     autoplay: true,
-    path :'../assets/anima/char2/mom.json'
-});
-
-lottie.loadAnimation({
+    path: 'https://kotoykm.github.io/assets/anima/char2/mom.json'
+  });
+  
+  lottie.loadAnimation({
     container: ui1,
     renderer: 'svg',
     bounce: true,
     loop: true,
     autoplay: true,
-    path :'../assets/anima/ui/myarrow.json'
-});
-
-lottie.loadAnimation({
+    path: 'https://kotoykm.github.io/assets/anima/ui/myarrow.json'
+  });
+  
+  lottie.loadAnimation({
     container: ui2,
     renderer: 'svg',
     bounce: true,
     loop: true,
     autoplay: true,
-    path :'../assets/anima/ui/myarrow.json'
-});
+    path: 'https://kotoykm.github.io/assets/anima/ui/myarrow.json'
+  });
+  
