@@ -11,7 +11,7 @@ lottie.loadAnimation({
   bounce: true,
   loop: false,
   autoplay: true,
-  path: 'https://kotoykm.github.io/mypageanima/assets/anima/bg/background.json'
+  path: 'https://pawpengaga.github.io/mypageanima/assets/anima/bg/background.json'
 });
 
 lottie.loadAnimation({
@@ -20,7 +20,7 @@ lottie.loadAnimation({
   bounce: true,
   loop: true,
   autoplay: true,
-  path: 'https://kotoykm.github.io/mypageanima/assets/anima/char1/promo.json'
+  path: 'https://pawpengaga.github.io/mypageanima/assets/anima/char1/promo.json'
 });
 
 lottie.loadAnimation({
@@ -29,7 +29,7 @@ lottie.loadAnimation({
   bounce: true,
   loop: true,
   autoplay: true,
-  path: 'https://kotoykm.github.io/mypageanima/assets/anima/char2/mom.json'
+  path: 'https://pawpengaga.github.io/mypageanima/assets/anima/char2/mom.json'
 });
 
 lottie.loadAnimation({
@@ -38,7 +38,7 @@ lottie.loadAnimation({
   bounce: true,
   loop: true,
   autoplay: true,
-  path: 'https://kotoykm.github.io/mypageanima/assets/anima/ui/myarrow.json'
+  path: 'https://pawpengaga.github.io/mypageanima/assets/anima/ui/myarrow.json'
 });
 
 lottie.loadAnimation({
@@ -47,5 +47,5 @@ lottie.loadAnimation({
   bounce: true,
   loop: true,
   autoplay: true,
-  path: 'https://kotoykm.github.io/mypageanima/assets/anima/ui/myarrow.json'
+  path: 'https://pawpengaga.github.io/mypageanima/assets/anima/ui/myarrow.json'
 });
